@@ -1,0 +1,23 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Timeline point > Should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    bg="#0f52ba"
+    class="sc-gLLuof igAZJu test_class_name"
+    data-testid="tree-leaf"
+    width="3"
+  >
+    <button
+      aria-label="select timeline"
+      class="sc-iBdnpw jOoEEC test_class_name timeline-vertical-circle"
+      data-testid="tree-leaf-click"
+    >
+      <div
+        class="sc-hLQSwg jvpXkb"
+        dimension="20"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;
